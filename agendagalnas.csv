@@ -1,26 +1,26 @@
-Subject,Start Date,End Date,All Day Event,Location
-Pameran Tunggal Brawijaya: Menghadapi Stigma Mooi Indië,12/19/2017,01/05/2018,TRUE,Galeri Nasional Gedung A
-Pameran Dua Kutub,01/10/2018,01/21/2018,TRUE,Galeri Nasional Gedung A
-Pameran Lukisan Geneviève Couteau: The Orient and Beyond,01/24/2018,02/14/2018,TRUE,Galeri Nasional Gedung A
-Pameran Lukisan Yoes Rizal: pop-up/meletup,02/09/2018,02/22/2018,TRUE,Galeri Nasional Gedung D
-Pameran Dyan Anggraini & Landung Simatupang: Perempuan (di) Borobudur,02/20/2018,03/05/2018,TRUE,Galeri Nasional Gedung A
-Pameran Indonesia Art Award: Dunia Komik: Bahasa Budaya Cerita Gambar,04/02/2018,04/18/2018,TRUE,Galeri Nasional Gedung A
-Pameran Seni Rupa Kontemporer: Manifesto,05/02/2018,05/17/2018,TRUE,"""Galeri Nasional Gedung A, B, D, Outdoor"""
-Pameran Tunggal Karya Hafiz Rancajale,05/25/2018,06/09/2018,TRUE,Galeri Nasional Gedung A
-Pameran 57 x 76 karya Goenawan Mohamad dan Hanafi,06/21/2018,07/02/2018,TRUE,Galeri Nasional Gedung A
-Pameran The Visible Form of Feeling karya Agung Fitriana & Windi Apriani,06/29/2018,07/13/2018,TRUE,Galeri Nasional Gedung D
-Pameran Tunggal Karya Azhar Horo,07/04/2018,07/22/2018,TRUE,Galeri Nasional Gedung B
-Pameran Fotografi Panji Karya Diego Zapatero: The Last Breath of the Prince,07/06/2018,07/15/2018,TRUE,Galeri Nasional Gedung C
-Pameran Tunggal Karya Tisna Sanjaya: Kesenian & Keagamaan,07/09/2018,07/21/2018,TRUE,Galeri Nasional Gedung A
-Pameran Tunggal Muhammad Mice: Yesterday-20 Tahun Mice Cartoon,07/20/2018,08/04/2018,TRUE,Galeri Nasional Gedung D
-Pameran Koleksi Seni Rupa Istana Kepresidenan RI,08/01/2018,08/31/2018,TRUE,Galeri Nasional Gedung A
-Pameran Seni Rupa: GARUDA JOURNEY Menakar Cinta terhadap NKRI,08/13/2018,09/02/2018,TRUE,Galeri Nasional Gedung C
-Pameran Perupa Gorontalo,08/14/2018,08/27/2018,TRUE,Galeri Nasional Gedung D
-Pameran Sketsa,09/04/2018,09/16/2018,TRUE,Galeri Nasional Gedung B
-Pameran Karya Achmad Krisgatha: Gelagat Cahaya,09/06/2018,09/23/2018,TRUE,Galeri Nasional Gedung D
-Pameran A Tale of Two Cities: Narrative Archive of Memories,09/13/2018,09/29/2018,TRUE,Galeri Nasional Gedung A
-Art for Refuge: The Exhibition,09/20/2018,09/27/2018,TRUE,"""Galeri Nasional Gedung B, C"""
-Pameran Maestro Seni Rupa Indonesia,10/10/2018,10/28/2018,TRUE,Galeri Nasional Gedung A
-Festival Bebas Batas,10/12/2018,10/25/2018,TRUE,"""Galeri Nasional Gedung B, C, D"""
-Pameran UOB Painting of the Year 2018,11/08/2018,11/19/2018,TRUE,Galeri Nasional Gedung A
-Pameran Retrospektif Moelyono,11/27/2018,12/11/2018,TRUE,Galeri Nasional Gedung A
+Subject,Start Date,End Date,End Time,Location
+Pameran Tunggal Brawijaya: Menghadapi Stigma Mooi Indië,12/19/2017,01/05/2018,23:59,Galeri Nasional Gedung A
+Pameran Dua Kutub,01/10/2018,01/21/2018,23:59,Galeri Nasional Gedung A
+Pameran Lukisan Geneviève Couteau: The Orient and Beyond,01/24/2018,02/14/2018,23:59,Galeri Nasional Gedung A
+Pameran Lukisan Yoes Rizal: pop-up/meletup,02/09/2018,02/22/2018,23:59,Galeri Nasional Gedung D
+Pameran Dyan Anggraini & Landung Simatupang: Perempuan (di) Borobudur,02/20/2018,03/05/2018,23:59,Galeri Nasional Gedung A
+Pameran Indonesia Art Award: Dunia Komik: Bahasa Budaya Cerita Gambar,04/02/2018,04/18/2018,23:59,Galeri Nasional Gedung A
+Pameran Seni Rupa Kontemporer: Manifesto,05/02/2018,05/17/2018,23:59,"""Galeri Nasional Gedung A, B, D, Outdoor"""
+Pameran Tunggal Karya Hafiz Rancajale,05/25/2018,06/09/2018,23:59,Galeri Nasional Gedung A
+Pameran 57 x 76 karya Goenawan Mohamad dan Hanafi,06/21/2018,07/02/2018,23:59,Galeri Nasional Gedung A
+Pameran The Visible Form of Feeling karya Agung Fitriana & Windi Apriani,06/29/2018,07/13/2018,23:59,Galeri Nasional Gedung D
+Pameran Tunggal Karya Azhar Horo,07/04/2018,07/22/2018,23:59,Galeri Nasional Gedung B
+Pameran Fotografi Panji Karya Diego Zapatero: The Last Breath of the Prince,07/06/2018,07/15/2018,23:59,Galeri Nasional Gedung C
+Pameran Tunggal Karya Tisna Sanjaya: Kesenian & Keagamaan,07/09/2018,07/21/2018,23:59,Galeri Nasional Gedung A
+Pameran Tunggal Muhammad Mice: Yesterday-20 Tahun Mice Cartoon,07/20/2018,08/04/2018,23:59,Galeri Nasional Gedung D
+Pameran Koleksi Seni Rupa Istana Kepresidenan RI,08/01/2018,08/31/2018,23:59,Galeri Nasional Gedung A
+Pameran Seni Rupa: GARUDA JOURNEY Menakar Cinta terhadap NKRI,08/13/2018,09/02/2018,23:59,Galeri Nasional Gedung C
+Pameran Perupa Gorontalo,08/14/2018,08/27/2018,23:59,Galeri Nasional Gedung D
+Pameran Sketsa,09/04/2018,09/16/2018,23:59,Galeri Nasional Gedung B
+Pameran Karya Achmad Krisgatha: Gelagat Cahaya,09/06/2018,09/23/2018,23:59,Galeri Nasional Gedung D
+Pameran A Tale of Two Cities: Narrative Archive of Memories,09/13/2018,09/29/2018,23:59,Galeri Nasional Gedung A
+Art for Refuge: The Exhibition,09/20/2018,09/27/2018,23:59,"""Galeri Nasional Gedung B, C"""
+Pameran Maestro Seni Rupa Indonesia,10/10/2018,10/28/2018,23:59,Galeri Nasional Gedung A
+Festival Bebas Batas,10/12/2018,10/25/2018,23:59,"""Galeri Nasional Gedung B, C, D"""
+Pameran UOB Painting of the Year 2018,11/08/2018,11/19/2018,23:59,Galeri Nasional Gedung A
+Pameran Retrospektif Moelyono,11/27/2018,12/11/2018,23:59,Galeri Nasional Gedung A
